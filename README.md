@@ -1,6 +1,6 @@
 # workshop-spring-boot-mongodb
 
-Um projeto de aprendizado a tecnologia de spring boot e mongodb.
+Um projeto de aprendizado (spring boot e mongodb) criando uma api REST para realização de operações do sistema.
 
 ## Tecnologias utilizadas:
 - Java 8
